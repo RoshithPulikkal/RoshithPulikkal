@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Roshith Pulikkal</h1>
-<h3 align="center">Experienced banking professional with 6+ years, transitioning to Data Analytics. Proficient in Excel, Power BI, and data modeling to derive critical business insights. Combines robust analytical abilities with a deep understanding of financial operations.</h3>
+<h1 align="center">Hi 👋, I'm Roshith Pulikkal</h1>
+<h3 align="left">Experienced banking professional with 6+ years, transitioning to Data Analytics. Proficient in Excel, Power BI, and data modeling to derive critical business insights. Combines robust analytical abilities with a deep understanding of financial operations.</h3>
 
 - 🔭 Check Out My <a href="https://codebasics.io/portfolio/ROSHITH-PULIKKAL" target="blank"> **Portfolio Website**
 
