@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshith Pulikkal</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on **𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝟯𝟲𝟬**
+- 🔭 Check Out My <a href="https://codebasics.io/portfolio/ROSHITH-PULIKKAL" target="blank"> **Portfolio Website**
 
 - 📫 How to reach me **roshithpulikkal@gmail.com**
 
